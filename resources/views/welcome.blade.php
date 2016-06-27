@@ -38,7 +38,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Bieber wouldn't rock in a quarry</div>
+                <div class="title">Bieber smokes rocks.......</div>
             </div>
         </div>
     </body>
