@@ -31,6 +31,10 @@ public function items()
 	}
 
 
+	public function delete()
+	{
+		return "hi";
+	}
 
     
 }
